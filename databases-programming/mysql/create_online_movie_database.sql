@@ -1,0 +1,1 @@
+CREATE DATABASE online_movie_rating;
