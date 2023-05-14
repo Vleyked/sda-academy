@@ -1,0 +1,4 @@
+1. Create a connection to a db
+2. Create a cursor
+3. Execute multiple queries to the database from your code
+4. Fetch the results of all queries to the terminal
